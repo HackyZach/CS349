@@ -1,0 +1,17 @@
+header {
+    background-color: blue;
+}
+
+
+article {
+    background-color: #56C274;
+}
+
+nav {
+    border-color: yellow;
+    border-style: double
+}
+
+footer {
+    background-color: red;
+}

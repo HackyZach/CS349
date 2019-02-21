@@ -1,0 +1,8 @@
+#flex-container {
+    
+}
+
+nav {
+    display: flex;
+    position: sticky;
+}
